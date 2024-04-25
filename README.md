@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Gabrielnm7"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=1250&pause=1&color=2E7334&background=000000&multiline=true&repeat=false&random=false&width=560&height=100&lines=Who+am+i%3A;Gabriel+Nu%C3%B1ez;Student+%7C+Data+Scientist+%7C+Data+Engineer+" alt="Typing SVG" alt="Typing SVG" /></a>
 
-<h2><picture><img alt="GIF" src="./assets/Developer.gif" width="30px" /> About me </picture></h2>
+## <picture><img alt="GIF" src="./assets/Developer.gif" width="30px" /></picture> **About me**
 
 <div>
     <picture>
