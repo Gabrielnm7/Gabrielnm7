@@ -42,9 +42,6 @@
     <a href="https://www.instagram.com/gabrielnm7/" target="_blank">
     <img lign="left" src="./assets/instagram.png" width="40" height="40" alt="Instagram"/>  
     </a>
-    <a href="https://discord.com/users/519507183436824587/" target="_blank">
-    <img lign="left" src="https://www.svgviewer.dev/static-svgs/34446/discord-v2.svg" width="40" height="40" alt="Discord"/> 
-    </a>
     <a href="https://www.linkedin.com/in/gabriel-nu%C3%B1ez-moreno/" target="_blank">
     <img lign="left" src="./assets/linkedin.png" width="40" height="40" alt="LinkedIn"/>
     </a>
