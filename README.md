@@ -58,3 +58,6 @@
   <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
   <br/>
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gabrielnm7/Gabrielnm7/output/snake.svg" alt="Snake animation" />
+</div>
