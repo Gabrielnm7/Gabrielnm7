@@ -12,7 +12,8 @@
         <img align="right" alt="" src="assets/ai.gif" width=320px>
     </picture>
         <ul>
-            <li>📖 I am a college student passionated about intellectual challenges, artificial intelligence, and neural networks</li>
+            <li>📖 I am a college student who thrives on challenges, and a pizza enthusiast at heart</li>
+            <li> I live by Henri Poincaré's words from Science and Hypothesis: 'To doubt everything or to believe everything are two equally convenient solutions; both dispense with the necessity of reflection.</li>
             <li>Currently working as Data Scientist at <a href="https://www.linkedin.com/company/romboost/"><strong>Romboost</strong></a>.</li>
             <li>🎓 Pursuing a degree in Data Science at <a href="https://lcd.exactas.uba.ar/"><strong>University of Buenos Aires</strong></a>.</li>
         </ul>
@@ -58,6 +59,4 @@
   <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
   <br/>
 </div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Gabrielnm7/Gabrielnm7/output/snake.svg" alt="Snake animation" />
-</div>
+
