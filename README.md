@@ -60,3 +60,7 @@
   <br/>
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gabrielnm7/Gabrielnm7/output/snake.svg" alt="Snake animation" />
+</div>
+
