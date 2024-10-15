@@ -55,8 +55,8 @@
 <img src="assets/divider.gif"><br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=radical&hide_border=false&include_all_commits=false&border_radius=10&line_height=23" alt="streak stats"/>
-  <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=radical&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=merko&hide_border=false&include_all_commits=true&border_radius=10&line_height=23" alt="streak stats"/>
+  <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=merko&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
   <br/>
 </div>
 
