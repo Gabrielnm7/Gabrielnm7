@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello there! 🪐</h1>
 
-<a href="https://github.com/Gabrielnm7"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=1250&pause=1&color=2E7334&background=000000&multiline=true&repeat=false&random=false&width=560&height=100&lines=Who+am+i%3A;Gabriel+Nu%C3%B1ez;Student+%7C+Data+Scientist+%7C+Data+Engineer+" alt="Typing SVG" alt="Typing SVG" /></a>
+<a href="https://github.com/Gabrielnm7"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=25&duration=1250&pause=2&color=2E7334&background=000000&multiline=true&repeat=false&random=false&width=560&height=100&lines=Who+am+i%3A;Gabriel+Nu%C3%B1ez;Student+%7C+Data+Scientist+%7C+Data+Engineer+" alt="Typing SVG" alt="Typing SVG" /></a>
 
 ## <picture><img alt="GIF" src="./assets/Developer.gif" width="30px" /></picture> **About me**
 
@@ -53,14 +53,31 @@
 <br>
 
 <img src="assets/divider.gif"><br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=merko&hide_border=false&include_all_commits=true&border_radius=10&line_height=23" alt="streak stats"/>
-  <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=merko&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
-  <br/>
-</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Overview**
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Gabrielnm7/Gabrielnm7/output/snake.svg" alt="Snake animation" />
+    <!-- Subtítulo para los stats generales -->
+    <h3>📊 Activity and Stats</h3>
+    <!-- Tarjetas de stats de GitHub -->
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=merko&hide_border=false&include_all_commits=true&border_radius=10&line_height=23&count_private=true" alt="streak stats"/>
+    <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=merko&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
+    <br/><br/>
 </div>
 
+<!-- Divider para separar el gráfico de actividad de contribución -->
+<img src="assets/divider.gif" width="100%"><br>
+
+<div align="center">
+    <h3>🗂️ Contribution Activity</h3>
+    <!-- Gráfico de contribución en GitHub -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielnm7&theme=vue" alt="Graph Contribution" />
+</div>
+
+<!-- Divider para separar el snake animation -->
+<img src="assets/divider.gif" width="100%"><br>
+
+<div align="center">
+    <p>🐍 Follow the Snake! </p>
+    <img src="https://raw.githubusercontent.com/Gabrielnm7/Gabrielnm7/output/snake.svg" alt="Snake animation" />
+</div>
