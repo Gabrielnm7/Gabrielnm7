@@ -60,7 +60,7 @@
     <!-- Subtítulo para los stats generales -->
     <h3>📊 Activity and Stats</h3>
     <!-- Tarjetas de stats de GitHub -->
-    <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=merko&hide_border=false&include_all_commits=true&border_radius=10&line_height=23&count_private=true" alt="streak stats"/>
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=Gabrielnm7&theme=merko&hide_border=false&include_all_commits=true&border_radius=10&line_height=23" alt="streak stats"/>
     <img width=413 src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielnm7&theme=merko&hide_border=false&border_radius=10&line_height=23" alt="readme stats" />
     <br/><br/>
 </div>
